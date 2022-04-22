@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @indigorose
-- 👀 I’m interested in HTML, CSS, JavaScript and Python
-- 🌱 I’m currently learning Javascript with a focus on node.js and APIs in the new year. 
+- 👀 I’m interested in Python, HTML, CSS and JavaScript 
+- 🌱 I’m currently learning Python with a focus on APIs and Flask.
 - 💞️ I’m looking to collaborate on web applications that use these functions.
 - 📫 How to reach me preferably through email - indigorose049@gmail.com if you would like to collaborate. 
 
