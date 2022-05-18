@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karen</h1>
-<h3 align="center">An aspiring web developer from London, UK.</h3>
+<h3 align="center">An aspiring developer from London, UK.</h3>
 
 - 🔭 I’m currently working on [Tic-Tac-Toe-Game](https://github.com/indigorose/Tic-Tac-Toe-Game)
 
