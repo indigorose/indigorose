@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tic-Tac-Toe-Game](https://github.com/indigorose/Tic-Tac-Toe-Game)
 
-- 🌱 I’m currently learning **Python, Flask and Django**
+- 🌱 I’m currently learning **HTML, CSS, Javascript and Python**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
