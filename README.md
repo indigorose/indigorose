@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karen</h1>
 <h3 align="center">An software developer from London, UK.</h3>
 
-- 🔭 I’m currently working on [Rectangle-Game](https://github.com/indigorose/Rectangle-Game)
+- 🔭 I’m currently working on [Mock E-commerce Site
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript and Python**
 
