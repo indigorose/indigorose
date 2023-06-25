@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karen</h1>
 <h3 align="center">An software developer from London, UK.</h3>
 
-- 🔭 I’m currently working on **Air Quality Checker**
+- 🔭 I’m currently working on **CRUD App with Node.js, Express.js and MongoDB**
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript and Python**
 
