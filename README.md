@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karen</h1>
 <h3 align="center">An software developer from London, UK.</h3>
 
-- 🔭 I’m currently working on **FreeCodeCamp C# Foundational Certificate with Microsoft**
+- 🔭 I’m currently working on **My Movie WatchList**
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React, C#, .NET and Python**
 
