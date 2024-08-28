@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available in this github.
 
-<h3 align="left">Connect with me:</h3>
+[comment]:<<h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
+</p>>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> Javascript | React | Node.js | MongoDB | Python | Flask | SQLite | HTML | CSS | MS Excel | Vite </p>
